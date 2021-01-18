@@ -1,5 +1,6 @@
 <?php
-
+echo "Hola mundo";
+echo "Adios mundo";
 $title = 'PokeStats - Home';
 
 include 'includes/views/head.php';
