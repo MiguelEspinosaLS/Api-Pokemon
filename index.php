@@ -56,6 +56,8 @@
 
 	<?php
 
+		echo "Prueba merge entre ramas GITHUB";
+
 		if(ISSET($_GET['id'])){
 
 			$pokemonId = $_GET['id'];
